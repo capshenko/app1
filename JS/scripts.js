@@ -1,3 +1,4 @@
 function theOutCome(){
-    alert("Tulia tukupange")
+   let name = prompt("wewe ni nani")
+    alert(`${name} Tulia tukupange`)
 }
